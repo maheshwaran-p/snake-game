@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>:Simple Snake:</title>
+</head>
+<body>
+    <div id="container">
+    <canvas id="snake" width="350" height="350"></canvas><br/>
+    
+    <button onclick="ButtonUp()">Up</button><br/>
+    <button onclick="ButtonLeft()">Left</button>
+    <button onclick="ButtonRight()">Right</button></br>
+    <button onclick="ButtonDown()">Down</button>
+    <p>Use buttons or phisycal keyboard arrows to move</p>
+    
+    </div>
+</body>
+</html>
