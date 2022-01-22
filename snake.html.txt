@@ -6,7 +6,7 @@
 </head>
 <body>
     <div id="container">
-    <canvas id="snake" width="450" height="350"></canvas><br/>
+    <canvas id="snake" width="450" height="450"></canvas><br/>
     
     <button onclick="ButtonUp()">Up</button><br/>
     <button onclick="ButtonLeft()">Left</button>
